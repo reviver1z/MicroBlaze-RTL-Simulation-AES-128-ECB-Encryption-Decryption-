@@ -26,3 +26,6 @@ VIVADO Folder Contains testbench.vhd *(VIVADO : testbench).
 array_sum.pdf Contains instructions *(FOLLOW : along).
 
 **Note:** The multiline comments made in `helloworld.c` and `testbench.vhd` refer to the parts of the code that will be used in my next repository for bit-flip injection in the MicroBlaze RTL Simulation system. The goal is to demonstrate how a fault can alter the result of the sum of an array of 9 float values (1.0+2.0+3.0+4.0+5.0+6.0+7.0+8.0+9.0=45.0)
+
+**Check** My Repository for MicroBlaze RTL Simulation with fault injection:
+https://github.com/reviver1z/MicroBlaze-RTL-Simulation-With-Fault-Injection
