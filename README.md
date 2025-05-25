@@ -13,3 +13,6 @@ The original (plain) sum
 The encrypted (ciphertext) sum
 
 The decrypted (plaintext) sum.
+
+Specifically, for the TinyAES algorithm, I used the following GitHub repository:
+https://github.com/kokke/tiny-AES-c
