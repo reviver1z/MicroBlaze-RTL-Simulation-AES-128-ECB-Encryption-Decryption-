@@ -16,3 +16,8 @@ The decrypted (plaintext) sum.
 
 Specifically, for the TinyAES algorithm, I used the following GitHub repository:
 https://github.com/kokke/tiny-AES-c
+
+SIMULATION OF A MICROBLAZE PROCESSOR ON AN FPGA USING VITIS 2023.2 AND ENCRYPTION/DECRYPTION OF DATA:
+SDK Folder Contains helloworld.c *(VITIS : application program), aes.c *(INCLUDE IN SOURCES VITIS: application program), aes.h *(INCLUDE IN INCLUDES VITIS: application program).
+VIVADO Folder Contains testbench.vhd *(VIVADO : testbench).
+array_sum.pdf Contains instructions *(FOLLOW : along).
