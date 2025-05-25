@@ -2,14 +2,14 @@
 Based on my previous GitHub repository: 
 https://github.com/reviver1z/MicroBlaze-RTL-Simulation
 
--I implemented TinyAES using AES ECB 128 mode.
-*Optional explanation of the algorithm:
+I implemented TinyAES using AES ECB 128 mode.
+-Optional explanation of the algorithm:
 It takes as input a 16-byte plaintext and a 16-byte key and produces a 16-byte ciphertext.
 
-**So now, during simulation in vivado when I press 'Run All', the following appear:
+So now, during simulation in vivado when I press 'Run All', the following appear:
 
 The original (plain) sum
 
 The encrypted (ciphertext) sum
 
-The decrypted (plaintext) sum."**
+The decrypted (plaintext) sum.
